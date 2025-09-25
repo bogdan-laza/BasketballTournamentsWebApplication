@@ -4,7 +4,7 @@ Backend for a mini-tournaments platform(organize match-ups, manage teams/players
 
 The project is a real-life application containing:
 
-# CRUD APIs for Users, Teams, Tournaments, Registrations, Games
+ **CRUD APIs for Users, Teams, Tournaments, Registrations, Games**
 
 # Authentication(OAuth): short-lived JWT access tokens + hashed refresh tokens
 
